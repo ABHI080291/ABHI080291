@@ -1,7 +1,6 @@
 
-![ABHISHEK KUMAR (3)](https://github.com/user-attachments/assets/84b5f42c-ba32-4ff5-bc5f-544bbc2f3374)
 
-                                                      👋 Hi, I’m **Abhishek Kumar**
+- 👋 Hi, I’m **Abhishek Kumar**
 - 👀 I’m interested in **Learning New things**
 - 🌱 I’m currently learning **DevOps** 
 - 📫 How to reach me **www.linkedin.com/in/abhishekkumar0802**
