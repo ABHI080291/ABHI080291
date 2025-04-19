@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Learning New things**
 - ⚡ Fun fact: **Love To Cook & Early Bird**
 
-![AZ104](https://github.com/user-attachments/assets/c6ccfead-e717-4390-9129-e9fff9be0576)![AZ400](https://github.com/user-attachments/assets/6cc64734-cb92-4425-8f94-3a5daaa04b44)![1_pjmEYyOqkEJqu9NtnEiZMg](https://github.com/user-attachments/assets/9903c90f-48d9-4c3e-a10f-b9cb0956ea02)![1_ik9N6EPd6H6ElO3R_N-Suw](https://github.com/user-attachments/assets/780c1ad7-a741-43df-be3d-3aa347602274)
+![1_pjmEYyOqkEJqu9NtnEiZMg](https://github.com/user-attachments/assets/78bc2eae-1623-40cf-9d69-b46654d6bd7f)![1_ik9N6EPd6H6ElO3R_N-Suw](https://github.com/user-attachments/assets/06cd2e2c-ab9d-48c5-a847-7bbf70b5cb7f)![AZ104](https://github.com/user-attachments/assets/6f61fbcf-47b2-418a-a5d5-ed6b66737371)![AZ400](https://github.com/user-attachments/assets/b5f3ca7e-7fdb-4b09-b5ce-8168ad784ccd)
 
 
  📫 How to reach me 📫
