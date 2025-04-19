@@ -1,6 +1,10 @@
 
+Hi there 👋
 
-- 👋 Hi, I’m **Abhishek Kumar**
+I am **Abhishek**, a Cloud Operations & DevOps Engineer from 🇮🇳 passionate about managing and optimizing cloud environments with 7+ years of professional experience in onsite as well as remote roles. 🎯
+
+I mostly work with AWS, Azure, AutoSys, and DevOps tools like 🏗️ Terraform, 🛠️ Ansible, 🤖 Jenkins, 🔀 Git & GitHub, and 🐳 Docker. 🚀
+
 - 👀 I’m interested in **Learning New things**
 - ⚡ Fun fact: **Love To Cook & Early Bird**
 
