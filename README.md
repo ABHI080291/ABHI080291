@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m **Abhishek Kumar**
 - 👀 I’m interested in **Learning New things**
-- 🌱 I’m currently learning **DevOps** 
 - 📫 How to reach me **www.linkedin.com/in/abhishekkumar0802**
 - ⚡ Fun fact: **Love To Cook & Early Bird**
 
