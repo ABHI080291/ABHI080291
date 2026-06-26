@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Senior+Cloud+Operations+%7C+Azure+DevOps+Engineer;8%2B+Years+Experience;Azure+%7C+AWS+%7C+GCP+%7C+Terraform+%7C+Ansible;Always+Learning+Kubernetes+%26+GitHub+Actions"/>
 </p>
 
-<h3 align="center">☁️ Senior Cloud Operations | Azure DevOps | Multi-Cloud Engineer</h3>
+<h3 align="center">☁️ Cloud Operations | Azure DevOps | Multi-Cloud Engineer</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ABHI080291&label=Profile%20Views&color=0e75b6&style=flat"/>
