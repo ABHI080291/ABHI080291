@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Abhishek Kumar**, a **Senior Cloud Operations & Azure DevOps Engineer** with **8+ years of experience** in enterprise cloud operations, automation, infrastructure management, and CI/CD. I specialize in **Microsoft Azure, Azure DevOps, Terraform, Ansible, Docker, Linux**, and also have experience with **AWS** and **Google Cloud Platform (GCP)**. I'm currently expanding my expertise in **Kubernetes, AKS, and GitHub Actions**.
+I'm **Abhishek Kumar**, a **Cloud Operations & Azure DevOps Engineer** with **8+ years of experience** in enterprise cloud operations, automation, infrastructure management, and CI/CD. I specialize in **Microsoft Azure, Azure DevOps, Terraform, Ansible, Docker, Linux**, and also have experience with **AWS** and **Google Cloud Platform (GCP)**. I'm currently expanding my expertise in **Kubernetes, AKS, and GitHub Actions**.
 
 - ☁️ Azure | AWS | GCP
 - 🚀 CI/CD • IaC • Automation
