@@ -34,11 +34,9 @@ I'm **Abhishek Kumar**, a **Cloud Operations & Azure DevOps Engineer** with **8+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## 🏆 Certifications
-Add your badge images here:
-- AZ-104
-- AZ-400
-- AZ-305
-- Google Cloud Professional Cloud Architect
+
+<img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/35f126d9-df4e-4ac8-894b-3375f6e6d1ba" />
+
 
 ## 📂 Featured Projects
 ### 🐧 Linux-By-Abhi
