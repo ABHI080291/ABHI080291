@@ -23,14 +23,17 @@
 **Currently**: Job hunting for Cloud Operations Lead, Production Support Lead, Senior Cloud Infrastructure Engineer roles (India + MENA)
 
 ---
-
 ## 🏆 Certifications
 
+### Microsoft Azure Certifications
 ![AZ-104](https://img.shields.io/badge/AZ--104_Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AZ-400](https://img.shields.io/badge/AZ--400_Azure_DevOps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Associate_Cloud_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AZ-400](https://img.shields.io/badge/AZ--400_Azure_DevOps_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-305](https://img.shields.io/badge/AZ--305_Azure_Solutions_Architect-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
----
+### Google Cloud Certifications
+![Google Cloud Professional Architect](https://img.shields.io/badge/Google_Cloud_Professional_Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Associate Cloud Engineer](https://img.shields.io/badge/Google_Associate_Cloud_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
 
 ## 🛠️ Tech Stack
 
